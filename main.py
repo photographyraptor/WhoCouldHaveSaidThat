@@ -1,5 +1,5 @@
 import numpy as np
-from inputFuncs import readTextFiles
+from code.inputFuncs import readTextFiles
 
 ss= readTextFiles()
 print(ss[2])
