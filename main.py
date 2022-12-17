@@ -1,5 +1,8 @@
 import numpy as np
-from code.inputFuncs import readTextFiles
+from code.inputFuncs import *
 
-ss= readTextFiles()
-print(ss[2])
+texts = readTextFiles()
+text1 = texts[1]
+line1 = text1[0]
+
+wordCountLines(text1)
