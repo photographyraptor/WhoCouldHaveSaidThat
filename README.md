@@ -1,9 +1,10 @@
-# Philosophicator
+# Who Could Have Said That
 
-Trained AI with philosophy books to conversate with you.
+Trained AI with books to answer a list of books and authors who could have said what you typed as input.
 
 ## Content
 
+-
 
 
 ## Installation
@@ -14,17 +15,16 @@ Trained AI with philosophy books to conversate with you.
 3) pip uninstall -r req_remove.txt -y
 4) pip install -r requirements.txt
 
-## Using the program
 
-aaa
+### Steps to run
 
-### Steps to run PEC04
+-
 
-aaa
 
 ### Testing
 
-aaa
+-
+
 
 ## Credits
 
